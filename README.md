@@ -30,19 +30,23 @@ streamlit run app.py
 
 ![Collatz Tree Example](assets/collatz_tree.png)
 
-📄 Citing This Work
+---
+
+## 📄 Reference
+
 This app implements and visualizes the reverse Collatz logic discussed in the article:
 
-Ahmed Al-absi,
-"A New Perspective on Proving the Collatz Conjecture"
-DOI: 10.5281/ZENODO.15178879 – April 2025
+**Ahmed Al-absi**  
+["A New Perspective on Proving the Collatz Conjecture"](https://doi.org/10.5281/zenodo.15178879)  
+DOI: `10.5281/ZENODO.15178879` – April 2025
 
-💡 Developed With
-Python 3
+---
 
-Streamlit
+## 💡 Developed With
 
-NetworkX
+- Python 3  
+- Streamlit  
+- NetworkX  
+- Matplotlib
 
-Matplotlib
 
