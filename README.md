@@ -26,8 +26,10 @@ pip install -r requirements.txt
 streamlit run app.py
 
 
-📸 Preview
-(Add a screenshot here once you test it locally or in Colab)
+## 📸 Preview
+
+![Collatz Tree Example](assets/collatz_tree.png)
+
 
 📄 Citing This Work
 This app implements and visualizes the reverse Collatz logic discussed in the article:
