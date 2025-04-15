@@ -28,7 +28,7 @@ streamlit run app.py
 
 ## 📸 Preview
 
-(assets/collatz_tree.png)
+![Collatz Tree Example](assets/collatz_tree.png)
 
 
 📄 Citing This Work
