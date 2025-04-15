@@ -26,10 +26,6 @@ pip install -r requirements.txt
 streamlit run app.py
 
 
-## 📸 Preview
-
-![Collatz Tree Example](assets/collatz_tree.png)
-
 ---
 
 ## 📄 Reference
