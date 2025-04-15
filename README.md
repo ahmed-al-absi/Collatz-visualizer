@@ -30,7 +30,6 @@ streamlit run app.py
 
 ![Collatz Tree Example](assets/collatz_tree.png)
 
-
 📄 Citing This Work
 This app implements and visualizes the reverse Collatz logic discussed in the article:
 
