@@ -33,8 +33,8 @@ streamlit run app.py
 This app implements and visualizes the reverse Collatz logic discussed in the article:
 
 **Ahmed Al-absi**  
-["A New Perspective on Proving the Collatz Conjecture"](https://doi.org/10.5281/zenodo.15178879)  
-DOI: `10.5281/ZENODO.15178879` – April 2025
+["A New Perspective on Proving the Collatz Conjecture"](https://zenodo.org/records/15233807)  
+DOI: `10.5281/zenodo.15233807` – April 2025
 
 ---
 
